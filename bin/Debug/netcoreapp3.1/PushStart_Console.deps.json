@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PushStart_Console/1.0.0": {
+        "runtime": {
+          "PushStart_Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PushStart_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
